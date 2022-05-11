@@ -6,6 +6,7 @@ The project is made using the MSP432 board, 16x2 LCD screen, a joystick, and a c
 ## Utility resources:
 * [Project Gallery](https://imgur.com/gallery/ZbGNTPq)
 * [LCD Custom Character Generator](https://maxpromer.github.io/LCD-Character-Creator/)
+* [Live Demo](https://youtu.be/_wG10yy54jA)
 
 ## Parts:
 * [MSP432](https://www.amazon.com/TEXAS-INSTRUMENTS-EK-LM4F120XL-STELLARIS-LAUNCHPAD/dp/B00DI7JWME/ref=asc_df_B00DI7JWME/?tag=hyprod20&linkCode=df0&hvadid=532907645911&hvpos=&hvnetw=g&hvrand=17636732015681010096&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004684&hvtargid=pla-1418054716965&psc=1)
