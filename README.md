@@ -1,7 +1,7 @@
 # Mini Arcade_IECE233
 a Mini arcade game That features 5 obsticles each with some mechanic to them.
 The obsticles range from a simple jump-to-dodge type enemy to more complicated enemy such as a mini bee boss and a mini smasher boss.
-The project is made using the MSP432 board, 16x2 LCD screen, a joystick
+The project is made using the MSP432 board, 16x2 LCD screen, a joystick, and a coin accepter
 
 ## Utility resources:
 * [LCD Custom Character Generator](https://maxpromer.github.io/LCD-Character-Creator/)
@@ -9,4 +9,5 @@ The project is made using the MSP432 board, 16x2 LCD screen, a joystick
 * [Joystick](https://www.amazon.com/SMAKN-Joystick-Breakout-Arduino-arduino/dp/B014MJLHC4/ref=asc_df_B014MJLHC4/?tag=hyprod-20&linkCode=df0&hvadid=198063088238&hvpos=&hvnetw=g&hvrand=12041055112422577896&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004684&hvtargid=pla-318862085479&psc=1)
 * [16x2 LCD Screen](https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=asc_df_B019K5X53O/?tag=hyprod-20&linkCode=df0&hvadid=312760964359&hvpos=&hvnetw=g&hvrand=964203339462488&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004684&hvtargid=pla-563014027379&th=1)
 * [Project Gallery](https://imgur.com/gallery/ZbGNTPq)
+* [Coin Acceptor](https://www.amazon.com/Yosoo-Acceptor-Selector-Mechanism-Vending/dp/B07HQL1QSS/ref=asc_df_B07HQL1QSS/?tag=hyprod-20&linkCode=df0&hvadid=241888066999&hvpos=&hvnetw=g&hvrand=11158607192102520740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004684&hvtargid=pla-675131199044&psc=1)
 
